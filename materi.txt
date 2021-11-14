@@ -2,6 +2,6 @@ Materi yang akan dipelajari:
 - belajar library numpy
 - belajar library pandas
 - membuat dataframe
-- menampilkan dan mengolah data
 - data cleaning
 - visualisasi data
+- membuat model
