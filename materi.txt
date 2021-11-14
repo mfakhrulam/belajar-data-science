@@ -1,0 +1,5 @@
+Materi yang akan dipelajari:
+- belajar library numpy
+- belajar library pandas
+- membuat dataframe
+- menampilkan dan mengolah data
